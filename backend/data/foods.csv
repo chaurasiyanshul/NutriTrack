@@ -1,0 +1,137 @@
+name,category,calories_per_100g,default_serving_g,is_vegetarian,protein_g,iron_mg,calcium_mg,vitamin_c_mg,vitamin_a_mcg,vitamin_d_mcg,fiber_g,zinc_mg,folate_mcg
+Rice (White Cooked),grains,130,150,True,2.7,0.2,10,0,0,0,0.4,0.5,2
+Rice (Brown Cooked),grains,123,150,True,2.7,0.5,10,0,0,0,1.8,0.6,4
+Wheat Roti,grains,297,40,True,9.7,3.5,30,0,0,0,11.4,2.0,30
+Oats (Cooked),grains,71,240,True,2.5,0.6,9,0,0,0,1.7,0.6,6
+Bread (Whole Wheat),grains,247,30,True,13.0,3.6,107,0,0,0,6.8,1.8,42
+Bread (White),grains,265,30,True,9.4,3.3,151,0,0,0,2.7,0.8,36
+Corn (Boiled),grains,96,100,True,3.4,0.5,2,7,10,0,2.4,0.5,19
+Quinoa (Cooked),grains,120,185,True,4.4,1.5,17,0,0,0,2.8,1.1,42
+Poha (Flattened Rice),grains,346,100,True,6.6,2.0,12,0,0,0,1.0,1.2,8
+Semolina (Suji),grains,360,100,True,12.7,1.2,17,0,0,0,3.9,1.0,72
+Chickpeas (Cooked),pulses,164,150,True,8.9,2.9,49,1,1,0,7.6,1.5,172
+Lentils (Masoor Dal Cooked),pulses,116,200,True,9.0,3.3,19,2,8,0,7.9,1.3,181
+Moong Dal (Cooked),pulses,105,200,True,7.0,1.4,15,1,1,0,5.0,0.8,159
+Toor Dal (Cooked),pulses,127,200,True,8.5,2.4,20,0,3,0,6.0,1.1,150
+Kidney Beans (Rajma Cooked),pulses,127,175,True,8.7,2.2,28,1,0,0,6.4,1.0,130
+Black Chickpeas (Kala Chana),pulses,164,150,True,8.9,2.9,49,1,1,0,7.6,1.5,172
+Soybeans (Cooked),pulses,173,180,True,16.6,5.1,102,2,1,0,6.0,1.0,54
+Green Peas (Cooked),pulses,84,160,True,5.4,1.5,27,14,38,0,5.5,1.2,65
+Peanuts (Raw),pulses,567,30,True,25.8,4.6,92,0,0,0,8.5,3.3,240
+Spinach (Raw),vegetables,23,100,True,2.9,2.7,99,28,469,0,2.2,0.5,194
+Spinach (Cooked),vegetables,23,180,True,3.0,3.6,136,10,524,0,2.4,0.8,146
+Carrot (Raw),vegetables,41,80,True,0.9,0.3,33,6,835,0,2.8,0.2,19
+Tomato (Raw),vegetables,18,150,True,0.9,0.3,10,14,42,0,1.2,0.2,15
+Onion (Raw),vegetables,40,100,True,1.1,0.2,23,7,0,0,1.7,0.2,19
+Potato (Boiled),vegetables,87,150,True,1.9,0.3,5,8,0,0,1.8,0.3,10
+Broccoli (Cooked),vegetables,35,156,True,2.4,0.7,40,65,77,0,3.3,0.4,108
+Cauliflower (Cooked),vegetables,23,124,True,1.8,0.3,16,44,1,0,2.3,0.2,44
+Cabbage (Raw),vegetables,25,100,True,1.3,0.5,40,37,5,0,2.5,0.2,43
+Beetroot (Boiled),vegetables,44,100,True,1.7,0.8,16,4,2,0,2.0,0.4,80
+Bottle Gourd (Lauki Cooked),vegetables,15,100,True,0.6,0.2,26,10,16,0,0.5,0.7,6
+Bitter Gourd (Karela Cooked),vegetables,19,100,True,0.8,0.4,19,33,71,0,2.0,0.8,51
+Okra (Bhindi Cooked),vegetables,33,100,True,1.9,0.6,82,16,36,0,3.2,0.6,46
+Cucumber (Raw),vegetables,15,100,True,0.7,0.3,16,3,5,0,0.5,0.2,7
+Sweet Potato (Boiled),vegetables,90,130,True,2.0,0.7,30,13,709,0,3.0,0.3,6
+Pumpkin (Cooked),vegetables,20,116,True,0.7,0.6,15,4,250,0,1.1,0.2,9
+Drumstick (Moringa Cooked),vegetables,37,100,True,2.1,0.4,30,12,74,0,2.0,0.4,40
+Capsicum (Green Raw),vegetables,20,100,True,0.9,0.3,10,80,18,0,1.7,0.1,10
+Mushroom (Cooked),vegetables,28,100,True,2.2,0.5,2,0,0,0.2,2.2,0.9,18
+Apple,fruits,52,150,True,0.3,0.1,6,5,3,0,2.4,0.0,3
+Banana,fruits,89,120,True,1.1,0.3,5,9,3,0,2.6,0.2,20
+Orange,fruits,47,150,True,0.9,0.1,40,53,11,0,2.4,0.1,30
+Mango,fruits,60,200,True,0.8,0.2,11,36,54,0,1.6,0.1,43
+Papaya,fruits,43,150,True,0.5,0.3,20,61,47,0,1.7,0.1,38
+Guava,fruits,68,100,True,2.6,0.3,18,228,31,0,5.4,0.2,49
+Pomegranate,fruits,83,100,True,1.7,0.3,10,10,0,0,4.0,0.4,38
+Watermelon,fruits,30,200,True,0.6,0.2,7,8,28,0,0.4,0.1,3
+Grapes,fruits,69,100,True,0.7,0.4,10,4,3,0,0.9,0.1,2
+Pineapple,fruits,50,100,True,0.5,0.3,13,48,3,0,1.4,0.1,18
+Strawberry,fruits,32,150,True,0.7,0.4,16,59,1,0,2.0,0.1,24
+Kiwi,fruits,61,100,True,1.1,0.3,34,93,4,0,3.0,0.1,25
+Amla (Indian Gooseberry),fruits,44,50,True,0.9,1.2,25,600,7,0,4.3,0.1,6
+Lemon Juice,fruits,22,50,True,0.4,0.1,6,39,0,0,0.3,0.1,11
+Coconut (Fresh),fruits,354,50,True,3.3,2.4,14,3,0,0,9.0,1.1,26
+Dates (Dried),fruits,282,30,True,2.5,1.0,39,0,3,0,8.0,0.3,19
+Milk (Whole),dairy,61,250,True,3.2,0.0,113,1,46,1.3,0,0.4,5
+Milk (Toned),dairy,50,250,True,3.3,0.1,120,1,28,0.5,0,0.4,5
+Curd (Yogurt),dairy,60,150,True,3.5,0.1,110,1,27,0,0,0.5,7
+Paneer,dairy,265,50,True,18.3,0.2,208,0,82,0.2,0,2.0,13
+Cheese (Cheddar),dairy,403,30,True,25.0,0.7,721,0,337,0.3,0,3.1,18
+Buttermilk (Chaas),dairy,40,200,True,3.3,0.1,116,1,22,0.1,0,0.4,5
+Ghee,oils,900,10,True,0,0,0,0,420,0,0,0,0
+Chicken Breast (Cooked),meat,165,120,False,31.0,1.0,15,0,6,0.1,0,1.0,4
+Chicken Thigh (Cooked),meat,209,100,False,26.0,1.3,12,0,24,0.1,0,2.4,8
+Mutton (Cooked),meat,294,100,False,25.0,2.1,12,0,0,0.2,0,4.5,7
+Beef (Cooked),meat,250,100,False,26.0,2.6,18,0,3,0.1,0,6.3,6
+Pork (Cooked),meat,242,100,False,27.0,0.9,19,1,2,0.6,0,2.4,5
+Egg (Boiled),eggs,155,50,False,13.0,1.8,56,0,149,2.0,0,1.3,47
+Egg White (Boiled),eggs,52,33,True,11.0,0.1,7,0,0,0,0,0.0,4
+Fish (Rohu Cooked),fish,120,100,False,19.0,0.5,650,0,15,1.0,0,0.5,15
+Salmon (Cooked),fish,208,100,False,20.0,0.3,9,0,40,11.0,0,0.6,7
+Sardine (Canned),fish,208,100,False,25.0,2.9,382,0,27,4.8,0,1.3,10
+Prawns (Cooked),fish,99,100,False,24.0,2.4,52,0,54,0,0,1.6,3
+Tuna (Canned),fish,132,100,False,28.0,1.0,18,0,18,1.7,0,0.8,4
+Almonds,nuts,579,30,True,21.0,3.7,269,0,0,0,12.5,3.1,44
+Cashews,nuts,553,30,True,18.2,6.7,37,1,0,0,3.3,5.8,25
+Walnuts,nuts,654,30,True,15.2,2.9,98,1,1,0,6.7,3.1,98
+Flaxseeds,nuts,534,15,True,18.3,5.7,255,1,0,0,27.3,4.3,87
+Chia Seeds,nuts,486,15,True,17.0,7.7,631,2,0,0,34.4,4.6,49
+Sunflower Seeds,nuts,584,30,True,20.8,5.3,78,1,3,0,8.6,5.0,227
+Pumpkin Seeds,nuts,559,30,True,30.2,8.8,46,2,1,0,6.0,7.8,58
+Sesame Seeds (Til),nuts,573,10,True,17.7,14.6,975,0,0,0,11.8,7.8,97
+Olive Oil,oils,884,10,True,0,0.6,1,0,0,0,0,0,0
+Coconut Oil,oils,862,10,True,0,0,0,0,0,0,0,0,0
+Mustard Oil,oils,884,10,True,0,0,0,0,0,0,0,0,0
+Sugar (White),sweets,387,10,True,0,0.1,1,0,0,0,0,0,0
+Jaggery (Gur),sweets,383,20,True,0.4,11.0,80,0,0,0,0,0.2,0
+Honey,sweets,304,20,True,0.3,0.4,6,1,0,0,0.2,0.2,2
+Dark Chocolate,sweets,546,30,True,5.0,8.0,56,0,2,0,7.0,2.0,12
+Tea (Black No Sugar),beverages,1,200,True,0,0,0,0,0,0,0,0,0
+Coffee (Black No Sugar),beverages,2,200,True,0.1,0,2,0,0,0,0,0,0
+Coconut Water,beverages,19,240,True,0.7,0.3,24,2,0,0,1.1,0.1,3
+Sugarcane Juice,beverages,73,200,True,0.3,0.4,10,4,0,0,0,0.1,0
+Soy Milk,beverages,54,240,True,3.3,0.6,25,0,55,1.2,0.6,0.4,18
+Tofu (Firm),pulses,144,100,True,15.8,2.7,350,0,5,0,0.9,2.0,29
+Sprouts (Moong),vegetables,30,100,True,3.0,0.9,13,13,3,0,1.8,0.4,61
+Methi Leaves (Fenugreek),vegetables,49,100,True,4.4,1.9,176,12,96,0,3.7,0.3,57
+Palak Paneer (approx),other,130,200,True,6.5,2.5,150,8,350,0.1,1.5,1.2,80
+Dal Fry (approx),other,110,250,True,7.0,2.0,25,2,5,0,4.5,1.0,100
+Rajma Curry (approx),other,120,250,True,6.5,1.8,30,3,5,0,5.0,0.9,90
+Chole (Chickpea Curry approx),other,150,250,True,7.5,2.5,40,3,10,0,6.0,1.2,100
+Sambar (approx),other,65,200,True,3.5,1.2,30,5,25,0,3.0,0.6,45
+Idli (2 pieces),grains,78,60,True,2.0,0.4,8,0,0,0,0.8,0.3,6
+Dosa (Plain),grains,168,100,True,3.9,0.7,10,0,0,0,0.9,0.4,8
+Upma,grains,125,200,True,3.5,0.5,15,1,5,0,1.5,0.4,10
+Khichdi,grains,105,200,True,3.8,0.8,12,0,3,0,1.5,0.5,25
+Paratha (Plain),grains,260,60,True,7.5,2.5,25,0,8,0,3.5,1.0,20
+Biryani (Veg approx),grains,170,250,True,4.5,1.0,20,2,15,0,1.5,0.6,15
+Poori (2 pieces),grains,320,50,True,8.0,3.0,20,0,5,0,3.0,1.0,15
+Chapati (Wheat),grains,240,35,True,8.7,2.8,25,0,0,0,10.0,1.8,26
+Butter,dairy,717,10,True,0.9,0,24,0,684,0.1,0,0.1,3
+Raita (Cucumber),dairy,50,100,True,2.5,0.1,80,2,20,0,0.3,0.3,8
+Lassi (Sweet),dairy,72,200,True,2.5,0.1,90,1,22,0.3,0,0.3,5
+Kheer (Rice Pudding),dairy,120,150,True,3.0,0.2,100,1,40,0.3,0.2,0.3,5
+Aloo Gobi (approx),other,95,200,True,2.5,0.5,20,20,5,0,2.5,0.3,20
+Mixed Vegetable Curry,other,80,200,True,2.0,0.8,25,15,100,0,3.0,0.4,30
+Baingan Bharta (approx),other,70,200,True,1.5,0.5,15,5,10,0,3.0,0.3,22
+Chutney (Mint Coriander),other,30,30,True,1.0,1.5,20,15,200,0,2.0,0.3,30
+Pickle (Mango),other,150,20,True,0.5,0.8,10,2,10,0,1.0,0.2,5
+Papad (Roasted),other,371,15,True,18.0,5.5,55,0,5,0,5.0,2.0,40
+Ragi (Finger Millet Flour),grains,328,100,True,7.3,3.9,344,0,0,0,11.5,2.3,18
+Bajra (Pearl Millet),grains,378,100,True,11.6,8.0,42,0,0,0,1.2,3.1,45
+Jowar (Sorghum),grains,339,100,True,11.0,4.4,25,0,0,0,6.7,1.6,20
+Amaranth Leaves (Chaulai),vegetables,23,100,True,2.5,2.3,215,43,146,0,0,0.9,85
+Drumstick Leaves,vegetables,92,100,True,6.7,4.0,185,220,378,0,2.0,0.6,40
+Figs (Dried),fruits,249,40,True,3.3,2.0,162,1,0,0,9.8,0.5,9
+Raisins,fruits,299,30,True,3.1,1.9,50,2,0,0,3.7,0.2,5
+Banana (Green Cooked),vegetables,89,120,True,1.3,0.3,8,9,7,0,2.6,0.2,22
+Sattu (Roasted Gram Flour),grains,406,50,True,25.0,6.5,80,0,5,0,8.0,3.0,150
+Tapioca (Sabudana Cooked),grains,130,100,True,0.2,0.1,10,0,0,0,0.9,0.1,2
+Coriander Leaves (Raw),vegetables,23,30,True,2.1,1.8,67,27,337,0,2.8,0.5,62
+Curry Leaves,vegetables,108,5,True,6.1,0.9,830,4,600,0,6.4,0.2,94
+Garlic,vegetables,149,10,True,6.4,1.7,181,31,0,0,2.1,1.2,3
+Ginger,vegetables,80,10,True,1.8,0.6,16,5,0,0,2.0,0.3,11
+Turmeric (Powder),spices,312,5,True,9.7,55.0,168,1,0,0,22.7,4.4,20
+Cumin Seeds,spices,375,5,True,17.8,66.4,931,8,64,0,10.5,4.8,10
+Pepper (Black),spices,251,2,True,10.4,9.7,443,0,27,0,25.3,1.2,17
