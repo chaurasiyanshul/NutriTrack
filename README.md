@@ -106,6 +106,14 @@ The frontend runs by default at `http://localhost:5173/`. It uses a relative `/a
 - `cd frontend && npm install`
 - `cd frontend && npm run dev`
 
+## Features
+- Barcode Food Scanning
+- AI-based Meal Recommendations
+- Nutrition Goal Planning
+- Weekly Analytics Dashboard
+- Mobile App Integration
+- Cloud Deployment Support
+
 ## License
 
 This README does not include a license. Add one if you plan to share or publish the project.
