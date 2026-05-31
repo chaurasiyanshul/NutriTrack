@@ -112,7 +112,7 @@ The frontend runs by default at `http://localhost:5173/`. It uses a relative `/a
 - Nutrition Goal Planning
 - Weekly Analytics Dashboard
 - Mobile App Integration
-- Cloud Deployment Support
+- Cloud Deployment 
 
 ## License
 
